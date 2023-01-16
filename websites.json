@@ -1,0 +1,12 @@
+[
+{
+    "name": "Site 1",
+    "url": "https://website",
+    "channelId": ""
+  },
+  {
+    "name": "Site 2",
+    "url": "http://website",
+    "channelId": ""
+  }
+]
