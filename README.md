@@ -1,6 +1,8 @@
 # SimpleUpTimeBot
 Simple Discord bot to ping http/https then set channel names by ID to Green/Red/Yellow Circle.
 ![Demo Image](https://github.com/TheFryz/SimpleUpTimeBot/blob/main/Capture.PNG?raw=true)
+
+
 1. Basic Setup
  - https://discord.com/developers/applications ; Get token
  - Set token in config.json
